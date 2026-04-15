@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext '/Users/fernando/Brain/Raw/PF Winning in SEO \\(1\\).pdf' -)",
+      "Bash(python3 -c \":*)",
+      "WebFetch(domain:nexasphere.io)",
+      "WebFetch(domain:sderosiaux.medium.com)",
+      "WebFetch(domain:erkansaka.net)",
+      "WebFetch(domain:www.buildfastwithai.com)",
+      "WebFetch(domain:claude.com)",
+      "WebFetch(domain:helenadibiase.substack.com)",
+      "WebFetch(domain:www.fahimai.com)",
+      "WebFetch(domain:www.eweek.com)",
+      "WebFetch(domain:codewithmukesh.com)",
+      "Bash(mkdir -p '/Users/fernando/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/7da0937c-851c-4eba-9f07-a41d40dc3757/c967e0d4-540f-4c9b-bf99-5b30140b90dc/skills/kb-refinement')",
+      "Bash(cp /Users/fernando/Brain/.claude/skills/kb-refinement/SKILL.md '/Users/fernando/Library/Application Support/Claude/local-agent-mode-sessions/skills-plugin/7da0937c-851c-4eba-9f07-a41d40dc3757/c967e0d4-540f-4c9b-bf99-5b30140b90dc/skills/kb-refinement/SKILL.md')",
+      "Bash(python3 -c ':*)",
+      "Bash(pdftotext \"/Users/fernando/Brain/Raw/How to Deploy Your First Claude Managed Agent.pdf\" -)",
+      "Bash(ls /Users/fernando/Brain/wiki/*.md)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(brew list:*)",
+      "Bash(git config:*)",
+      "Bash(brew install:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Obsidian workspace files (local only)
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+
+# Keep Obsidian config (themes, plugins, settings)
+!.obsidian/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Clippings folder (raw web clips, can be large)
+# Remove this line if you want to sync Clippings too
+# Clippings/
