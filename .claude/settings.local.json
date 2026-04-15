@@ -30,7 +30,11 @@
       "Bash(git push:*)",
       "Bash(crontab -l)",
       "Bash(git -C /Users/fernando/Brain add -A)",
-      "Bash(git -C /Users/fernando/Brain status --short)"
+      "Bash(git -C /Users/fernando/Brain status --short)",
+      "Bash(git -C /Users/fernando/Brain commit -m \"2026-04-15 auto-sync — add kb-sync skill, update CLAUDE.md with all 6 skills\")",
+      "Bash(git -C /Users/fernando/Brain push origin main)",
+      "Bash(git -C /Users/fernando/Brain add README.md)",
+      "Bash(git -C /Users/fernando/Brain commit -m \"2026-04-15 add README\")"
     ]
   }
 }
